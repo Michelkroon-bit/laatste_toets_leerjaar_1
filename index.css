@@ -1,0 +1,30 @@
+.container{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; 
+}
+
+
+p{
+    text-align: center;
+
+}
+#Tests{
+    height: 400px;
+    box-shadow: 5px 6px 5px 6px black;
+    border: 5px solid #781f19;
+    border-radius: 50px;
+    width: 950px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #781f19;
+    background-color: black;
+    
+}
+
+body{
+    background-color: #28282B;
+}
