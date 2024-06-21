@@ -20,7 +20,7 @@ function kanBereikenTankstation(kilometersNaarTankstation, kilometersPerLiter, r
 }
 
 
-document.getElementById('Test1').innerHTML = `Test 1: ${kanBereikenTankstation(80, 10, 10)}parameters used (80 km tot tankstation , 10 km per liter , 10 liter(s) over)`;
+document.getElementById('Test1').innerHTML = `Test 1: ${kanBereikenTankstation(80, 10, 10)} parameters used (80 km tot tankstation , 10 km per liter , 10 liter(s) over)`;
 document.getElementById('Test2').innerHTML = `Test 2: ${kanBereikenTankstation(50, 10, 8)} parameters used (50 km tot tankstation , 10 km per liter , 8 liter(s) over)`;
 document.getElementById('Test3').innerHTML = `Test 3: ${kanBereikenTankstation(43, 10, 3)} parameters used (43 km tot tankstation , 10 km per liter , 3 liter(s) over)`;
 document.getElementById('Test4').innerHTML = `Test 4: ${kanBereikenTankstation(53, 10, 8)} parameters used (53 km tot tankstation , 10 km per liter , 8 liter(s) over)`;

@@ -1,0 +1,21 @@
+{
+    "query": "select distance from destinations ",
+    "resultcount": 5,
+    "result": [
+        {
+            "distance": 300.0
+        },
+        {
+            "distance": 600.0
+        },
+        {
+            "distance": 900.0
+        },
+        {
+            "distance": 1300.0
+        },
+        {
+            "distance": 1700.0
+        }
+    ]
+}

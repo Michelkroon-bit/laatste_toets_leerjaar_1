@@ -1,0 +1,31 @@
+{
+    "query": "select * from destinations",
+    "resultcount": 5,
+    "result": [
+        {
+            "id": 1,
+            "name": "Tunis",
+            "distance": 300.0
+        },
+        {
+            "id": 2,
+            "name": "Tripoli",
+            "distance": 600.0
+        },
+        {
+            "id": 3,
+            "name": "Cairo",
+            "distance": 900.0
+        },
+        {
+            "id": 4,
+            "name": "Bamako",
+            "distance": 1300.0
+        },
+        {
+            "id": 5,
+            "name": "Khartoum",
+            "distance": 1700.0
+        }
+    ]
+}

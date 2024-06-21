@@ -1,0 +1,76 @@
+{
+    "query": "select * from cars",
+    "resultcount": 10,
+    "result": [
+        {
+            "id": 1,
+            "brand": "Toyota",
+            "model": "Corolla",
+            "usage": 15.0,
+            "tankvolume": 50.0
+        },
+        {
+            "id": 2,
+            "brand": "Honda",
+            "model": "Civic",
+            "usage": 14.5,
+            "tankvolume": 47.0
+        },
+        {
+            "id": 3,
+            "brand": "Ford",
+            "model": "Mustang",
+            "usage": 8.3,
+            "tankvolume": 60.0
+        },
+        {
+            "id": 4,
+            "brand": "Chevrolet",
+            "model": "Impala",
+            "usage": 10.0,
+            "tankvolume": 65.0
+        },
+        {
+            "id": 5,
+            "brand": "BMW",
+            "model": "X5",
+            "usage": 9.4,
+            "tankvolume": 85.0
+        },
+        {
+            "id": 6,
+            "brand": "Audi",
+            "model": "A4",
+            "usage": 14.0,
+            "tankvolume": 60.0
+        },
+        {
+            "id": 7,
+            "brand": "Mercedes-Benz",
+            "model": "C-Class",
+            "usage": 13.5,
+            "tankvolume": 66.0
+        },
+        {
+            "id": 8,
+            "brand": "Volkswagen",
+            "model": "Golf",
+            "usage": 16.0,
+            "tankvolume": 55.0
+        },
+        {
+            "id": 9,
+            "brand": "Hyundai",
+            "model": "Elantra",
+            "usage": 15.5,
+            "tankvolume": 53.0
+        },
+        {
+            "id": 10,
+            "brand": "Nissan",
+            "model": "Altima",
+            "usage": 13.0,
+            "tankvolume": 56.0
+        }
+    ]
+}

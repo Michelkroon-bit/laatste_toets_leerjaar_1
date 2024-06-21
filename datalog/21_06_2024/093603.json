@@ -1,0 +1,81 @@
+{
+    "query": "select * from destinations",
+    "resultcount": 15,
+    "result": [
+        {
+            "id": 1,
+            "name": "Tunis",
+            "distance": 300.0
+        },
+        {
+            "id": 2,
+            "name": "Tripoli",
+            "distance": 600.0
+        },
+        {
+            "id": 3,
+            "name": "Cairo",
+            "distance": 900.0
+        },
+        {
+            "id": 4,
+            "name": "Bamako",
+            "distance": 1300.0
+        },
+        {
+            "id": 5,
+            "name": "Khartoum",
+            "distance": 1700.0
+        },
+        {
+            "id": 6,
+            "name": "Tunis",
+            "distance": 300.0
+        },
+        {
+            "id": 7,
+            "name": "Tripoli",
+            "distance": 600.0
+        },
+        {
+            "id": 8,
+            "name": "Cairo",
+            "distance": 900.0
+        },
+        {
+            "id": 9,
+            "name": "Bamako",
+            "distance": 1300.0
+        },
+        {
+            "id": 10,
+            "name": "Khartoum",
+            "distance": 1700.0
+        },
+        {
+            "id": 11,
+            "name": "Tunis",
+            "distance": 300.0
+        },
+        {
+            "id": 12,
+            "name": "Tripoli",
+            "distance": 600.0
+        },
+        {
+            "id": 13,
+            "name": "Cairo",
+            "distance": 900.0
+        },
+        {
+            "id": 14,
+            "name": "Bamako",
+            "distance": 1300.0
+        },
+        {
+            "id": 15,
+            "name": "Khartoum",
+            "distance": 1700.0
+        }
+    ]
+}

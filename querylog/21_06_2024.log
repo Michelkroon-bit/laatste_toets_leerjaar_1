@@ -1,0 +1,8 @@
+select * from cars; #09:28:14@travel_db.db
+select * from destinations; #09:28:57@travel_db.db
+select distance from destinations ; #09:29:07@travel_db.db
+select * from cars; #09:32:34@travel_db.db
+select * from cars; #09:35:35@travel_db.db
+select * from destinations; #09:36:03@travel_db.db
+select * from destinations; #10:05:21@travel_db.db
+select * from destinations; #10:15:53@travel_db.db
